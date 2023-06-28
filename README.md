@@ -1,13 +1,7 @@
 
 Justin Kerketta
 
-SRC R&D Product Dev<br>
-Clinical Apps & Diag<br>
-6501 Living Place<br>
-Pittsburgh PA, 15206<br>
 USA<br> 
-
-Justin.Kerketta@philips.com
 
 - News
 - Music
