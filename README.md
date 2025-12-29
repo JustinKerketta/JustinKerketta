@@ -1,7 +1,15 @@
 
 Justin Kerketta
-
-USA<br> 
+USA
+<br>
+C#, .NET, ASP .NET Core, Razor, Blazor
+JavaScript, NodeJS, React, Angular
+Azure, Docker, Kubernetes
+SQL, SQL Server, Azure SQL Server, 
+C++, Windows
+<br>
+Design Patterns, Database Design
+<br> 
 
 - News
 - Music
